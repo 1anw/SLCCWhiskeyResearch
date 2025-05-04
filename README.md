@@ -1,4 +1,4 @@
-# 2024DentedBrickRepo
+# SLCC Whiskey Research Project
 Location of stored data, laboratory notebook pages and analyses of research for Salt Lake Community College's 2024 and 2025 whiskey volatile compound analysis project.
 
 ### 2024 Projects
@@ -6,7 +6,7 @@ Location of stored data, laboratory notebook pages and analyses of research for 
 2. Comparative Analysis of VOCs and Flavor/Odor Contribution in Double-matured Whiskey from Dented Brick Distillery
 
 ### 2025 Projects
-HS-SPME-GCMS Analyses of Char and Yeast Variation in Utah Whiskey
+HS-SPME-GC-MS Analyses of Charring and Yeast Variation in Utah Whiskey
 
 ### About Us
 
