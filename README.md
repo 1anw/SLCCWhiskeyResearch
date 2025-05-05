@@ -16,7 +16,7 @@ This project is led by Ian Wixom, with Madisen Salinas co-leading the second 202
  - Tanya Holley: Coordinator of Compounds Research
  - Ariana Heinen: Coordinator of Sample Preparation
  - Marcos McDermott: Coordinator of GCMS Methodology
- - Jonny Pope: Compound Documentation, Compound Cataloging, Literature Review
+ - Jonny Pope: Compound Documentation, Compound Cataloging, SPME Apparatus Development, Literature Review
  - Sosonniya Sokhom: Whiskey Background Research, Compound Cataloging, Literature Review
  - Omar Carvajal: Compound Documentation, AMDIS MS Library Development, Reference Gathering
  - Cesar Caceres: Compound Cataloging, SPME Apparatus Development
