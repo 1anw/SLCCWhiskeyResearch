@@ -21,7 +21,7 @@ This project is led by Ian Wixom, with Madisen Salinas co-leading the second 202
  - Omar Carvajal: Compound Documentation, AMDIS MS Library Development, Reference Gathering
  - Cesar Caceres: Compound Cataloging, SPME Apparatus Development
  - Cesar Quintanilla: Compound Cataloging
- - Rafael Gonzalez: SPME Apparatus Development
+ - Rafael Gonzalez: SPME Apparatus Development, Reference Gathering
  - Dakota Stringham: SPME Fiber Research, Reference Gathering
 
 #### Faculty Advisors
